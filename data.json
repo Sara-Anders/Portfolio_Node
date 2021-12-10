@@ -1,0 +1,70 @@
+[
+  { "title": "Week 4 JS Quiz", 
+  "detail": "Learned about Events and Objects of Javascript, created a quiz that has the user input an answer to a question, using to create an interactive experiance using logic and control structures. ", 
+  "image_trail": "images/quiz.png",
+  "link": "https://cs50c-week04-25-calisara.srjcethanwilde.repl.co/"
+  },
+
+   { "title":"Week 5 Shared Libraries", 
+  "detail": "Coding with JavaScript events and using the components of the JavaScript language including control structures. Learned how to create interactive experiences using logic and shared code libraries.", 
+  "image_trail": "images/week5.png" ,
+  "link": "https://cs50c-week05-20-calisara.srjcethanwilde.repl.co/"
+  },
+
+   { "title":"Week 6 Exploring JQuery Plugins", 
+  "detail": "Enhancing Quiz with the addition of browser-based interactions and user interface elements (widgets) provided by jQuery UI. Added draggable and droppable interactions as well as two widgets from the jQuery UI library.", 
+  "image_trail": "images/week6.png" ,
+  "link": "https://cs50c-week06-19-calisara.srjcethanwilde.repl.co/"
+  },
+  
+
+  { "title": "Week 7 JQuery Plug-ins", 
+  "detail": "Learned to create jQuery plugins using object-oriented JavaScript code. Also, learned to research, evaluate and integrate multiple jQuery plugins to accomplish desired user experience.", 
+  "image_trail": "images/plugins.png" ,
+  "link": "https://cs50c-week07-18-calisara.srjcethanwilde.repl.co/"
+  },
+
+  { "title": "Week 8 Google Maps", 
+  "detail": "Developed enhanced user interfaces by utilizing the capabilities of interactive geographic maps with the Google Maps API. Learned how the library manipulates the HTML document object model to add and modify HTML and CSS to create its map interface. Responding to user events with function-based code blocks.", 
+  "image_trail": "images/week8.png" ,
+  "link": "https://cs50c-week08-20-calisara.srjcethanwilde.repl.co/"
+  },
+
+  { "title":"Mid-Term Project Google Maps App", 
+  "detail": "Worked with dynamic data loaded from external JSON files. Worked with asynchronous events and JavaScript callback function. Created mobile-ready responsive interfaces using JavaScript, HTML and CSS.Respond to user events with function-based code blocks.", 
+  "image_trail": "images/midterm.png" ,
+  "link": "https://cs50c-week09-16-calisara.srjcethanwilde.repl.co/"
+  },
+
+  { "title": "Week 11 Basic Data Visualizations", 
+  "detail": "Developed data visualizations using external JSON data. Learned how JavaScript can command the browser to create visual graphics in HTML5 canvas elements.", 
+  "image_trail": "images/graph2.png" ,
+  "link": "https://cs50c-week11-17-calisara.srjcethanwilde.repl.co/"
+  },
+
+  { "title": "Week 12 Advanced Data Visualizations", 
+  "detail": "Created a data visualization using the D3 library that supports user interaction using hover and click interaction elements, uses SVG elements and loads data from an external JSON file. ", 
+  "image_trail": "images/graph2.png" ,
+  "link": "https://cs50c-week12-16-calisara.srjcethanwilde.repl.co/"
+  },
+
+   { "title":"Week 13 Basic Game Development", 
+   "detail": "Developed a highly interactive user experiences using the Phaser JavaScript library. Learned how JavaScript can command the browser to create games. ", 
+   "image_trail": "images/game.png" ,
+   "link": "https://cs50c-week14-16-calisara.srjcethanwilde.repl.co/"
+   },
+
+   { "title": "Week 14 My Game", 
+  "detail": "Design and program my own choice of a computer-based game. Sourced from a pre-designed game on phaser.io, needed to use our own images in lue of provided from original. Continued developing highly interactive user experiences using the Phaser JavaScript library. Practiced researching and utilizing online tutorials for JavaScript development. Customized 20 ines of Javascript code to produce custom game version. ", 
+  "image_trail": "images/week14.png" ,
+  "link": "https://cs50c-week14-16-calisara.srjcethanwilde.repl.co/"
+  },
+
+   { "title": "Week 15 Final Project Utilizing React", 
+  "detail": "Create a browser-based MVC-pattern application using React JavaScript library. Created a single-page Web app using React JavaScript library that displays the details for all class assignments using the map() method with React to iteratively render HTML elements to show details for each assignment. ", 
+  "image_trail": "images/week15.png" ,
+  "link": "https://cs50c-week15-18-calisara.srjcethanwilde.repl.co/"
+  }
+  
+  
+]
